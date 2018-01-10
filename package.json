@@ -1,0 +1,29 @@
+{
+	"name": "geojson-properties",
+	"version": "0.1.0",
+	"description": "An easy way to get or replace properties of GeoJSON features.",
+	"license": "MIT",
+	"repository": "",
+	"author": {
+		"name": "thebravyone",
+		"email": "thebravyone@gmail.com>",
+		"url": "https://github.com/thebravyone"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		""
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"ava": "^0.20.0",
+		"xo": "^0.18.2"
+	}
+}
