@@ -1,4 +1,4 @@
-# geojson-properties [![Build Status](https://travis-ci.org/<%= githubUsername %>/<%= moduleName %>.svg?branch=master)](https://travis-ci.org/<%= githubUsername %>/<%= moduleName %>)
+# geojson-properties [![Build Status](https://travis-ci.org/thebravyone/geojson-properties.svg?branch=master)](https://travis-ci.org/thebravyone/geojson-properties)
 
 >An easy way to get or replace properties of GeoJSON features.
 
