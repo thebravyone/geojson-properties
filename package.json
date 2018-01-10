@@ -3,10 +3,10 @@
 	"version": "0.1.0",
 	"description": "An easy way to get or replace properties of GeoJSON features.",
 	"license": "MIT",
-	"repository": "",
+	"repository": "https://github.com/thebravyone/geojson-properties.git",
 	"author": {
 		"name": "thebravyone",
-		"email": "thebravyone@gmail.com>",
+		"email": "thebravyone@gmail.com",
 		"url": "https://github.com/thebravyone"
 	},
 	"engines": {
